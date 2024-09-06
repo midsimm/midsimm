@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simranjeet
 - 👀 I’m interested in React development
-- 🌱 I’m currently learning Redux and Graphql.
+- 🌱 I’m currently learning Redux.
 - 💞️ I’m looking to collaborate on React projects.
 - 📫 You can reach to me at simranjeet96mail@gmail.com
 
